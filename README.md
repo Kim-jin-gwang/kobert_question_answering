@@ -1,4 +1,3 @@
-# Machine_Reading_Comprehension
 ## KOBERT를 이용한 기계독해학습 공부(kobert_question_answering)
 
 캡스톤 프로젝트 중, KOBERT를 공부하며 얻은 지식입니다.
